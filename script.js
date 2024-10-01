@@ -1,0 +1,5 @@
+let a = Number(prompt("Digite o valor A:"))
+let b = Number(prompt("Digite o valor B"))
+let c = Number(prompt("Digite o valor C"))
+let somaQuadrados = (a*a)+(b**b)+(c*c)
+alert("A soma dos quadrados é "+somaQuadrados)
